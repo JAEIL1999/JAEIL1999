@@ -1,5 +1,11 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=210&section=header&text=Welcome!&desc=Thanks%20for%20coming&fontSize=80&fontAlignY=40&descAlign=65)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAEIL1999)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAEIL1999)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer)
 <!--
 **JAEIL1999/JAEIL1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
