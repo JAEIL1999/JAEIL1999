@@ -1,9 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=210&section=header&text=나는%20에그킹&desc=계란말이%20잘%20해요~&fontSize=80&fontAlignY=35&descAlign=69)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=210&section=header&text=나는%20에그킹🍳&desc=계란말이%20잘%20해요~&fontSize=80&fontAlignY=35&descAlign=69)
 
 <div>
   <h2>😉 Github Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=JAEIL1999&hide=contribs,prs&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAEIL1999&theme=tokyonight&layout=compact" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JAEIL1999&hide=contribs,prs&show_icons=true&theme=tokyonight"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAEIL1999&theme=tokyonight"/>
 </div>
 
 
