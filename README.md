@@ -11,7 +11,7 @@
   <h2>😉 Github Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=JAEIL1999&hide=contribs,prs&show_icons=true&theme=cobalt"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAEIL1999&theme=cobalt"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAEIL1999&layout=compact&theme=cobalt"/>
 </div>
 
 
