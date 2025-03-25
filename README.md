@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=210&section=header&text=나는%20에그킹🍳&desc=계란말이%20잘%20해요~&fontSize=80&fontAlignY=35&descAlign=69)
 <div align=left>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJAEIL1999%2Fhit-counter&count_bg=%230917D3&title_bg=%23FF0E0E&icon=myspace.svg&icon_color=%23020202&title=HITS&edge_flat=false"/></a> <br/>
 <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=pkpark0714"/>
 </div>
 
