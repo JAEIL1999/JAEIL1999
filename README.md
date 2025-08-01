@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=210&section=header&text=나는%20에그킹🍳&desc=계란말이%20잘%20해요~&fontSize=80&fontAlignY=35&descAlign=69)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=210&section=header&text=나는%20JAEIL🍳&desc=%20코딩%20해요~&fontSize=80&fontAlignY=35&descAlign=69)
 <div align=left>
 <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=pkpark0714"/>
 </div>
